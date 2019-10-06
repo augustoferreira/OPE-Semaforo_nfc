@@ -1,2 +1,2 @@
-# OPE-Sem-foro_nfc
+# OPE-Semaforo_nfc
 Trabalho Semáforo Inteligente 
